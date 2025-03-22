@@ -1,0 +1,11 @@
+
+
+
+http://localhost:5294/api/StudentMarkSheet
+
+cd "C:\Users\91996\Desktop\MY WPF Projects\StudentMarksheetUploadApi"
+
+npx kill-port 3001  # (Stops any process using port 3001)
+json-server --watch student_marksheet_updated.json --port 3001
+
+Desktop\StudentMarksheet_Publish

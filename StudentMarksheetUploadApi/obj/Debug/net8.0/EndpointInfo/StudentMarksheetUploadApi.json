@@ -1,0 +1,139 @@
+{
+  "openapi": "3.0.1",
+  "info": {
+    "title": "StudentMarksheetUploadApi",
+    "version": "1.0"
+  },
+  "paths": {
+    "/api/StudentMarkSheet/fetch": {
+      "get": {
+        "tags": [
+          "StudentMarkSheet"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/StudentMarkSheet/upload": {
+      "post": {
+        "tags": [
+          "StudentMarkSheet"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/StudentMarkSheet"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/StudentMarkSheet"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/StudentMarkSheet"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "Marks": {
+        "type": "object",
+        "properties": {
+          "maths": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "physics": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "chemistry": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "socialStudies": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "secondLanguage": {
+            "type": "integer",
+            "format": "int32"
+          }
+        },
+        "additionalProperties": false
+      },
+      "Student": {
+        "required": [
+          "gender",
+          "id",
+          "marks",
+          "name",
+          "rollNumber",
+          "status"
+        ],
+        "type": "object",
+        "properties": {
+          "rollNumber": {
+            "type": "string",
+            "nullable": true
+          },
+          "name": {
+            "type": "string",
+            "nullable": true
+          },
+          "gender": {
+            "type": "string",
+            "nullable": true
+          },
+          "marks": {
+            "$ref": "#/components/schemas/Marks"
+          },
+          "totalMarks": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "status": {
+            "type": "string",
+            "nullable": true
+          },
+          "id": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "StudentMarkSheet": {
+        "required": [
+          "students"
+        ],
+        "type": "object",
+        "properties": {
+          "students": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/Student"
+            },
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      }
+    }
+  }
+}

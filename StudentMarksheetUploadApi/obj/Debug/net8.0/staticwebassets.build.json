@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "uN+OkHhoJsxMEJ80YAEZ8DFuikPpf5fmZ9sFANvOjuc=",
+  "Source": "StudentMarksheetUploadApi",
+  "BasePath": "_content/StudentMarksheetUploadApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

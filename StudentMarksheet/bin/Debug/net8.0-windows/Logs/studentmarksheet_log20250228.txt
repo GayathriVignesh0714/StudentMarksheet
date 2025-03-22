@@ -1,0 +1,187 @@
+2025-02-28 00:00:50.808 -05:00 [INF] Loading the Student Marksheet to the Grid..
+2025-02-28 00:00:51.766 -05:00 [INF] Loading the Student Marksheet to the Grid..
+2025-02-28 00:01:09.066 -05:00 [INF] Fetching student marks...
+2025-02-28 00:01:09.097 -05:00 [INF] Fetching student marksheet from API...
+2025-02-28 00:01:09.108 -05:00 [INF] Fetching student marksheet from API...
+2025-02-28 00:01:09.118 -05:00 [INF] Start processing HTTP request GET http://localhost:5000/api/StudentMarkSheet/fetch
+2025-02-28 00:01:09.122 -05:00 [INF] Sending HTTP request GET http://localhost:5000/api/StudentMarkSheet/fetch
+2025-02-28 00:01:13.379 -05:00 [ERR] HTTP error while fetching StudentMarkSheet
+System.Net.Http.HttpRequestException: No connection could be made because the target machine actively refused it. (localhost:5000)
+ ---> System.Net.Sockets.SocketException (10061): No connection could be made because the target machine actively refused it.
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|285_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.AddHttp11ConnectionAsync(QueueItem queueItem)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at Microsoft.Extensions.Http.Logging.LoggingHttpMessageHandler.<SendCoreAsync>g__Core|4_0(HttpRequestMessage request, Boolean useAsync, CancellationToken cancellationToken)
+   at Microsoft.Extensions.Http.Logging.LoggingScopeHttpMessageHandler.<SendCoreAsync>g__Core|4_0(HttpRequestMessage request, Boolean useAsync, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at StudentMarksheet.ApiService.StudentMarksheetApiService.FetchStudentMarkSheetAsync() in C:\Users\91996\Desktop\MY WPF Projects\StudentMarksheet\ApiService\StudentMarksheetApiService.cs:line 46
+2025-02-28 00:01:13.446 -05:00 [WRN] No student marks found in API response.
+2025-02-28 00:01:13.447 -05:00 [INF] Loaded 0 student marks.
+2025-02-28 00:01:15.217 -05:00 [INF] Loading the Student Marksheet to the Grid..
+2025-02-28 00:01:16.831 -05:00 [INF] Loading the Student Marksheet to the Grid..
+2025-02-28 00:01:24.261 -05:00 [INF] Posting updated data to API...
+2025-02-28 00:01:24.434 -05:00 [INF] Start processing HTTP request POST http://localhost:5000/api/StudentMarkSheet/upload
+2025-02-28 00:01:24.434 -05:00 [INF] Sending HTTP request POST http://localhost:5000/api/StudentMarkSheet/upload
+2025-02-28 00:01:28.548 -05:00 [ERR] Exception while posting data: No connection could be made because the target machine actively refused it. (localhost:5000)
+2025-02-28 00:01:30.097 -05:00 [INF] Refresh Student Marksheet called
+2025-02-28 00:01:30.098 -05:00 [INF] Fetching student marks...
+2025-02-28 00:01:30.098 -05:00 [INF] Fetching student marksheet from API...
+2025-02-28 00:01:30.098 -05:00 [INF] Fetching student marksheet from API...
+2025-02-28 00:01:30.098 -05:00 [INF] Start processing HTTP request GET http://localhost:5000/api/StudentMarkSheet/fetch
+2025-02-28 00:01:30.099 -05:00 [INF] Sending HTTP request GET http://localhost:5000/api/StudentMarkSheet/fetch
+2025-02-28 00:01:34.240 -05:00 [ERR] HTTP error while fetching StudentMarkSheet
+System.Net.Http.HttpRequestException: No connection could be made because the target machine actively refused it. (localhost:5000)
+ ---> System.Net.Sockets.SocketException (10061): No connection could be made because the target machine actively refused it.
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|285_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.AddHttp11ConnectionAsync(QueueItem queueItem)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at Microsoft.Extensions.Http.Logging.LoggingHttpMessageHandler.<SendCoreAsync>g__Core|4_0(HttpRequestMessage request, Boolean useAsync, CancellationToken cancellationToken)
+   at Microsoft.Extensions.Http.Logging.LoggingScopeHttpMessageHandler.<SendCoreAsync>g__Core|4_0(HttpRequestMessage request, Boolean useAsync, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at StudentMarksheet.ApiService.StudentMarksheetApiService.FetchStudentMarkSheetAsync() in C:\Users\91996\Desktop\MY WPF Projects\StudentMarksheet\ApiService\StudentMarksheetApiService.cs:line 46
+2025-02-28 00:01:34.242 -05:00 [WRN] No student marks found in API response.
+2025-02-28 00:01:34.243 -05:00 [INF] Loaded 0 student marks.
+2025-02-28 00:01:34.344 -05:00 [INF] Loading the Student Marksheet to the Grid..
+2025-02-28 00:03:08.449 -05:00 [INF] Fetching student marks...
+2025-02-28 00:03:08.520 -05:00 [INF] Fetching student marksheet from API...
+2025-02-28 00:03:08.540 -05:00 [INF] Fetching student marksheet from API...
+2025-02-28 00:03:08.563 -05:00 [INF] Start processing HTTP request GET http://localhost:5000/api/StudentMarkSheet/fetch
+2025-02-28 00:03:08.572 -05:00 [INF] Sending HTTP request GET http://localhost:5000/api/StudentMarkSheet/fetch
+2025-02-28 00:03:12.876 -05:00 [ERR] HTTP error while fetching StudentMarkSheet
+System.Net.Http.HttpRequestException: No connection could be made because the target machine actively refused it. (localhost:5000)
+ ---> System.Net.Sockets.SocketException (10061): No connection could be made because the target machine actively refused it.
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|285_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.AddHttp11ConnectionAsync(QueueItem queueItem)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at Microsoft.Extensions.Http.Logging.LoggingHttpMessageHandler.<SendCoreAsync>g__Core|4_0(HttpRequestMessage request, Boolean useAsync, CancellationToken cancellationToken)
+   at Microsoft.Extensions.Http.Logging.LoggingScopeHttpMessageHandler.<SendCoreAsync>g__Core|4_0(HttpRequestMessage request, Boolean useAsync, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at StudentMarksheet.ApiService.StudentMarksheetApiService.FetchStudentMarkSheetAsync() in C:\Users\91996\Desktop\MY WPF Projects\StudentMarksheet\ApiService\StudentMarksheetApiService.cs:line 46
+2025-02-28 00:03:12.944 -05:00 [WRN] No student marks found in API response.
+2025-02-28 00:06:45.552 -05:00 [INF] Fetching student marks...
+2025-02-28 00:06:45.625 -05:00 [INF] Fetching student marksheet from API...
+2025-02-28 00:06:45.663 -05:00 [INF] Fetching student marksheet from API...
+2025-02-28 00:06:45.683 -05:00 [INF] Start processing HTTP request GET http://localhost:5294/api/StudentMarkSheet/fetch
+2025-02-28 00:06:45.692 -05:00 [INF] Sending HTTP request GET http://localhost:5294/api/StudentMarkSheet/fetch
+2025-02-28 00:06:50.085 -05:00 [ERR] HTTP error while fetching StudentMarkSheet
+System.Net.Http.HttpRequestException: No connection could be made because the target machine actively refused it. (localhost:5294)
+ ---> System.Net.Sockets.SocketException (10061): No connection could be made because the target machine actively refused it.
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|285_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.AddHttp11ConnectionAsync(QueueItem queueItem)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at Microsoft.Extensions.Http.Logging.LoggingHttpMessageHandler.<SendCoreAsync>g__Core|4_0(HttpRequestMessage request, Boolean useAsync, CancellationToken cancellationToken)
+   at Microsoft.Extensions.Http.Logging.LoggingScopeHttpMessageHandler.<SendCoreAsync>g__Core|4_0(HttpRequestMessage request, Boolean useAsync, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at StudentMarksheet.ApiService.StudentMarksheetApiService.FetchStudentMarkSheetAsync()
+2025-02-28 00:06:50.130 -05:00 [WRN] No student marks found in API response.
+2025-02-28 00:06:50.131 -05:00 [INF] Loaded 0 student marks.
+2025-02-28 00:06:51.645 -05:00 [INF] Loading the Student Marksheet to the Grid..
+2025-02-28 00:06:52.904 -05:00 [INF] Loading the Student Marksheet to the Grid..
+2025-02-28 00:07:30.614 -05:00 [INF] Posting updated data to API...
+2025-02-28 00:07:48.675 -05:00 [INF] Start processing HTTP request POST http://localhost:5294/api/StudentMarkSheet/upload
+2025-02-28 00:07:48.676 -05:00 [INF] Sending HTTP request POST http://localhost:5294/api/StudentMarkSheet/upload
+2025-02-28 00:09:54.119 -05:00 [INF] Fetching student marks...
+2025-02-28 00:09:54.230 -05:00 [INF] Fetching student marksheet from API...
+2025-02-28 00:09:54.248 -05:00 [INF] Fetching student marksheet from API...
+2025-02-28 00:09:54.275 -05:00 [INF] Start processing HTTP request GET http://localhost:5294/api/StudentMarkSheet/fetch
+2025-02-28 00:09:54.285 -05:00 [INF] Sending HTTP request GET http://localhost:5294/api/StudentMarkSheet/fetch
+2025-02-28 00:09:54.852 -05:00 [INF] Received HTTP response headers after 547.7412ms - 200
+2025-02-28 00:09:54.859 -05:00 [INF] End processing HTTP request after 607.136ms - 200
+2025-02-28 00:09:56.150 -05:00 [INF] No. of StudentsMarkSheet Fetched: 55
+2025-02-28 00:09:56.162 -05:00 [INF] 55 student marks retrieved successfully.
+2025-02-28 00:09:56.185 -05:00 [INF] Loaded 55 student marks.
+2025-02-28 00:09:56.186 -05:00 [INF] Checking for existing student marks in the database...
+2025-02-28 00:09:57.772 -05:00 [INF] Loading the Student Marksheet to the Grid..
+2025-02-28 00:09:58.483 -05:00 [INF] Executed DbCommand (116ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [s].[RollNumber]
+FROM [StudentMarks] AS [s]
+2025-02-28 00:09:58.530 -05:00 [INF] No new student marks to insert.
+2025-02-28 03:59:15.994 -05:00 [INF] Fetching student marks...
+2025-02-28 03:59:35.297 -05:00 [INF] Fetching student marksheet from API...
+2025-02-28 03:59:42.868 -05:00 [INF] Fetching student marksheet from API...
+2025-02-28 03:59:43.252 -05:00 [INF] Start processing HTTP request GET http://localhost:5000/api/StudentMarkSheet/fetch
+2025-02-28 03:59:43.256 -05:00 [INF] Sending HTTP request GET http://localhost:5000/api/StudentMarkSheet/fetch
+2025-02-28 03:59:43.431 -05:00 [INF] Received HTTP response headers after 171.9319ms - 200
+2025-02-28 03:59:43.434 -05:00 [INF] End processing HTTP request after 191.4133ms - 200
+2025-02-28 03:59:48.904 -05:00 [INF] No. of StudentsMarkSheet Fetched: 56
+2025-02-28 03:59:54.049 -05:00 [INF] 56 student marks retrieved successfully.
+2025-02-28 04:00:11.043 -05:00 [INF] Checking for existing student marks in the database...
+2025-02-28 04:00:24.669 -05:00 [INF] Loaded 56 student marks.
+2025-02-28 04:00:37.918 -05:00 [INF] Executed DbCommand (44ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [s].[RollNumber]
+FROM [StudentMarks] AS [s]
+2025-02-28 04:00:39.517 -05:00 [INF] Inserting 1 new student records into database...
+2025-02-28 04:00:40.914 -05:00 [INF] Executed DbCommand (34ms) [Parameters=[@p0='?' (Size = 450), @p1='?' (Size = 4000), @p2='?' (Size = 4000), @p3='?' (Size = 4000), @p4='?' (Size = 4000), @p5='?' (DbType = Int32), @p6='?' (Size = 450), @p7='?' (DbType = Int32), @p8='?' (DbType = Int32), @p9='?' (DbType = Int32), @p10='?' (DbType = Int32), @p11='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [StudentMarks] ([RollNumber], [Gender], [Id], [Name], [Status], [TotalMarks])
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5);
+INSERT INTO [Marks] ([RollNumber], [Chemistry], [Maths], [Physics], [SecondLanguage], [SocialStudies])
+VALUES (@p6, @p7, @p8, @p9, @p10, @p11);
+2025-02-28 04:00:41.048 -05:00 [INF] Student marks inserted successfully.
+2025-02-28 04:00:57.856 -05:00 [INF] Loading the Student Marksheet to the Grid..
+2025-02-28 04:03:09.610 -05:00 [INF] Posting updated data to API...
+2025-02-28 04:03:18.701 -05:00 [INF] Start processing HTTP request POST http://localhost:5000/api/StudentMarkSheet/upload
+2025-02-28 04:03:18.701 -05:00 [INF] Sending HTTP request POST http://localhost:5000/api/StudentMarkSheet/upload
+2025-02-28 04:03:18.762 -05:00 [INF] Received HTTP response headers after 61.09ms - 200
+2025-02-28 04:03:18.762 -05:00 [INF] End processing HTTP request after 61.8777ms - 200
+2025-02-28 04:03:33.017 -05:00 [INF] Successfully posted 7 student marksheet details.
+2025-02-28 04:03:39.024 -05:00 [INF] Refresh Student Marksheet called
+2025-02-28 04:03:39.025 -05:00 [INF] Fetching student marks...
+2025-02-28 04:03:39.812 -05:00 [INF] Fetching student marksheet from API...
+2025-02-28 04:03:41.147 -05:00 [INF] Fetching student marksheet from API...
+2025-02-28 04:03:41.147 -05:00 [INF] Start processing HTTP request GET http://localhost:5000/api/StudentMarkSheet/fetch
+2025-02-28 04:03:41.147 -05:00 [INF] Sending HTTP request GET http://localhost:5000/api/StudentMarkSheet/fetch
+2025-02-28 04:03:41.178 -05:00 [INF] Received HTTP response headers after 31.2904ms - 200
+2025-02-28 04:03:41.178 -05:00 [INF] End processing HTTP request after 31.7918ms - 200
+2025-02-28 04:03:41.180 -05:00 [INF] No. of StudentsMarkSheet Fetched: 57
+2025-02-28 04:03:43.203 -05:00 [INF] 57 student marks retrieved successfully.
+2025-02-28 04:04:03.865 -05:00 [INF] Checking for existing student marks in the database...
+2025-02-28 04:04:04.456 -05:00 [INF] Loaded 57 student marks.
+2025-02-28 04:04:07.858 -05:00 [INF] Executed DbCommand (66ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [s].[RollNumber]
+FROM [StudentMarks] AS [s]
+2025-02-28 04:04:12.371 -05:00 [INF] Inserting 1 new student records into database...
+2025-02-28 04:04:14.179 -05:00 [INF] Loading the Student Marksheet to the Grid..
+2025-02-28 04:04:16.793 -05:00 [INF] Executed DbCommand (20ms) [Parameters=[@p0='?' (Size = 450), @p1='?' (Size = 4000), @p2='?' (Size = 4000), @p3='?' (Size = 4000), @p4='?' (Size = 4000), @p5='?' (DbType = Int32), @p6='?' (Size = 450), @p7='?' (DbType = Int32), @p8='?' (DbType = Int32), @p9='?' (DbType = Int32), @p10='?' (DbType = Int32), @p11='?' (DbType = Int32)], CommandType='"Text"', CommandTimeout='30']
+SET NOCOUNT ON;
+INSERT INTO [StudentMarks] ([RollNumber], [Gender], [Id], [Name], [Status], [TotalMarks])
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5);
+INSERT INTO [Marks] ([RollNumber], [Chemistry], [Maths], [Physics], [SecondLanguage], [SocialStudies])
+VALUES (@p6, @p7, @p8, @p9, @p10, @p11);
+2025-02-28 04:04:17.234 -05:00 [INF] Student marks inserted successfully.

@@ -1,0 +1,27 @@
+2025-02-27 02:34:30.007 -05:00 [INF] Fetching student marks...
+2025-02-27 02:34:30.032 -05:00 [INF] Fetching student marksheet from API...
+2025-02-27 02:34:30.034 -05:00 [INF] Fetching student marksheet from API...
+2025-02-27 02:34:30.042 -05:00 [INF] Start processing HTTP request GET http://localhost:5000/api/StudentMarkSheet/fetch
+2025-02-27 02:34:30.046 -05:00 [INF] Sending HTTP request GET http://localhost:5000/api/StudentMarkSheet/fetch
+2025-02-27 02:34:34.174 -05:00 [ERR] HTTP error while fetching StudentMarkSheet
+System.Net.Http.HttpRequestException: No connection could be made because the target machine actively refused it. (localhost:5000)
+ ---> System.Net.Sockets.SocketException (10061): No connection could be made because the target machine actively refused it.
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|285_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.AddHttp11ConnectionAsync(QueueItem queueItem)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at Microsoft.Extensions.Http.Logging.LoggingHttpMessageHandler.<SendCoreAsync>g__Core|4_0(HttpRequestMessage request, Boolean useAsync, CancellationToken cancellationToken)
+   at Microsoft.Extensions.Http.Logging.LoggingScopeHttpMessageHandler.<SendCoreAsync>g__Core|4_0(HttpRequestMessage request, Boolean useAsync, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at StudentMarksheet.ApiService.StudentMarksheetApiService.FetchStudentMarkSheetAsync() in C:\Users\91996\Desktop\MY WPF Projects\StudentMarksheet\ApiService\StudentMarksheetApiService.cs:line 46
+2025-02-27 02:34:34.220 -05:00 [WRN] No student marks found in API response.
+2025-02-27 02:34:34.221 -05:00 [INF] Loaded 0 student marks.
+2025-02-27 02:34:36.268 -05:00 [INF] Loading the Student Marksheet to the Grid..

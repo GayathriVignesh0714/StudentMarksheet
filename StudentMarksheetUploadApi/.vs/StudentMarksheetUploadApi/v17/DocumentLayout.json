@@ -1,0 +1,192 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\91996\\Desktop\\MY WPF Projects\\StudentMarksheetUploadApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{325E2221-E7A1-4A11-8865-ABCC4BF77767}|StudentMarksheetUploadApi.csproj|c:\\users\\91996\\desktop\\my wpf projects\\studentmarksheetuploadapi\\controllers\\studentmarksheetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325E2221-E7A1-4A11-8865-ABCC4BF77767}|StudentMarksheetUploadApi.csproj|solutionrelative:controllers\\studentmarksheetcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325E2221-E7A1-4A11-8865-ABCC4BF77767}|StudentMarksheetUploadApi.csproj|c:\\users\\91996\\desktop\\my wpf projects\\studentmarksheetuploadapi\\model\\studentmarksheet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325E2221-E7A1-4A11-8865-ABCC4BF77767}|StudentMarksheetUploadApi.csproj|solutionrelative:model\\studentmarksheet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325E2221-E7A1-4A11-8865-ABCC4BF77767}|StudentMarksheetUploadApi.csproj|c:\\users\\91996\\desktop\\my wpf projects\\studentmarksheetuploadapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{325E2221-E7A1-4A11-8865-ABCC4BF77767}|StudentMarksheetUploadApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325E2221-E7A1-4A11-8865-ABCC4BF77767}|StudentMarksheetUploadApi.csproj|c:\\users\\91996\\desktop\\my wpf projects\\studentmarksheetuploadapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{325E2221-E7A1-4A11-8865-ABCC4BF77767}|StudentMarksheetUploadApi.csproj|solutionrelative:appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325E2221-E7A1-4A11-8865-ABCC4BF77767}|StudentMarksheetUploadApi.csproj|c:\\users\\91996\\desktop\\my wpf projects\\studentmarksheetuploadapi\\studentmarksheetuploadapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{325E2221-E7A1-4A11-8865-ABCC4BF77767}|StudentMarksheetUploadApi.csproj|solutionrelative:studentmarksheetuploadapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325E2221-E7A1-4A11-8865-ABCC4BF77767}|StudentMarksheetUploadApi.csproj|c:\\users\\91996\\desktop\\my wpf projects\\studentmarksheetuploadapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{325E2221-E7A1-4A11-8865-ABCC4BF77767}|StudentMarksheetUploadApi.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{325E2221-E7A1-4A11-8865-ABCC4BF77767}|StudentMarksheetUploadApi.csproj|c:\\users\\91996\\desktop\\my wpf projects\\studentmarksheetuploadapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{325E2221-E7A1-4A11-8865-ABCC4BF77767}|StudentMarksheetUploadApi.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\91996\\Desktop\\MY WPF Projects\\StudentMarksheetUploadApi\\student_marksheet.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:student_marksheet.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\91996\\Desktop\\student_marksheet.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\91996\\Desktop\\student_marksheet_50.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\91996\\Desktop\\MY WPF Projects\\StudentMarksheetUploadApi\\student_marksheet_50.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:student_marksheet_50.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentMarkSheetController.cs",
+              "DocumentMoniker": "C:\\Users\\91996\\Desktop\\MY WPF Projects\\StudentMarksheetUploadApi\\Controllers\\StudentMarkSheetController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentMarkSheetController.cs",
+              "ToolTip": "C:\\Users\\91996\\Desktop\\MY WPF Projects\\StudentMarksheetUploadApi\\Controllers\\StudentMarkSheetController.cs",
+              "RelativeToolTip": "Controllers\\StudentMarkSheetController.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T01:12:43.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "student_marksheet_50.json",
+              "DocumentMoniker": "C:\\Users\\91996\\Desktop\\MY WPF Projects\\StudentMarksheetUploadApi\\student_marksheet_50.json",
+              "RelativeDocumentMoniker": "student_marksheet_50.json",
+              "ToolTip": "C:\\Users\\91996\\Desktop\\MY WPF Projects\\StudentMarksheetUploadApi\\student_marksheet_50.json",
+              "RelativeToolTip": "student_marksheet_50.json",
+              "ViewState": "AgIAAE4LAAAAAAAAAAAQwGYLAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-18T23:40:42.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentMarkSheet.cs",
+              "DocumentMoniker": "C:\\Users\\91996\\Desktop\\MY WPF Projects\\StudentMarksheetUploadApi\\Model\\StudentMarkSheet.cs",
+              "RelativeDocumentMoniker": "Model\\StudentMarkSheet.cs",
+              "ToolTip": "C:\\Users\\91996\\Desktop\\MY WPF Projects\\StudentMarksheetUploadApi\\Model\\StudentMarkSheet.cs",
+              "RelativeToolTip": "Model\\StudentMarkSheet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T01:08:14.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\91996\\Desktop\\MY WPF Projects\\StudentMarksheetUploadApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\91996\\Desktop\\MY WPF Projects\\StudentMarksheetUploadApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAA4AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-16T01:22:44.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\91996\\Desktop\\MY WPF Projects\\StudentMarksheetUploadApi\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "appsettings.Development.json",
+              "ToolTip": "C:\\Users\\91996\\Desktop\\MY WPF Projects\\StudentMarksheetUploadApi\\appsettings.Development.json",
+              "RelativeToolTip": "appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-16T01:19:44.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentMarksheetUploadApi.http",
+              "DocumentMoniker": "C:\\Users\\91996\\Desktop\\MY WPF Projects\\StudentMarksheetUploadApi\\StudentMarksheetUploadApi.http",
+              "RelativeDocumentMoniker": "StudentMarksheetUploadApi.http",
+              "ToolTip": "C:\\Users\\91996\\Desktop\\MY WPF Projects\\StudentMarksheetUploadApi\\StudentMarksheetUploadApi.http",
+              "RelativeToolTip": "StudentMarksheetUploadApi.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-02-16T01:18:41.082Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\91996\\Desktop\\MY WPF Projects\\StudentMarksheetUploadApi\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\91996\\Desktop\\MY WPF Projects\\StudentMarksheetUploadApi\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAmwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-16T01:19:48.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\91996\\Desktop\\MY WPF Projects\\StudentMarksheetUploadApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\91996\\Desktop\\MY WPF Projects\\StudentMarksheetUploadApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAIBJwBAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-18T04:57:52.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "student_marksheet.json",
+              "DocumentMoniker": "C:\\Users\\91996\\Desktop\\MY WPF Projects\\StudentMarksheetUploadApi\\student_marksheet.json",
+              "RelativeDocumentMoniker": "student_marksheet.json",
+              "ToolTip": "C:\\Users\\91996\\Desktop\\MY WPF Projects\\StudentMarksheetUploadApi\\student_marksheet.json",
+              "RelativeToolTip": "student_marksheet.json",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-16T02:15:02.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "student_marksheet.json",
+              "DocumentMoniker": "C:\\Users\\91996\\Desktop\\student_marksheet.json",
+              "RelativeDocumentMoniker": "..\\..\\student_marksheet.json",
+              "ToolTip": "C:\\Users\\91996\\Desktop\\student_marksheet.json",
+              "RelativeToolTip": "..\\..\\student_marksheet.json",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-16T02:05:34.183Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "student_marksheet_50.json",
+              "DocumentMoniker": "C:\\Users\\91996\\Desktop\\student_marksheet_50.json",
+              "RelativeDocumentMoniker": "..\\..\\student_marksheet_50.json",
+              "ToolTip": "C:\\Users\\91996\\Desktop\\student_marksheet_50.json",
+              "RelativeToolTip": "..\\..\\student_marksheet_50.json",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-16T01:06:24.305Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

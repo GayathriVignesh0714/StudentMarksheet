@@ -1,0 +1,3 @@
+@echo off
+echo Starting JSON Server...
+start "" json-server --watch student_marksheet_updated.json --port 3001

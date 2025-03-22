@@ -1,0 +1,139 @@
+2025-02-27 01:50:10.007 -05:00 [INF] Fetching student marks...
+2025-02-27 01:50:10.112 -05:00 [INF] Fetching student marksheet from API...
+2025-02-27 01:50:10.149 -05:00 [INF] Fetching student marksheet from API...
+2025-02-27 01:50:10.175 -05:00 [INF] Start processing HTTP request GET http://localhost:5294/api/StudentMarkSheet/fetch
+2025-02-27 01:50:10.186 -05:00 [INF] Sending HTTP request GET http://localhost:5294/api/StudentMarkSheet/fetch
+2025-02-27 01:50:13.500 -05:00 [INF] Received HTTP response headers after 3306.4104ms - 200
+2025-02-27 01:50:13.513 -05:00 [INF] End processing HTTP request after 3357.7384ms - 200
+2025-02-27 01:50:13.813 -05:00 [INF] No. of StudentsMarkSheet Fetched: 55
+2025-02-27 01:50:13.814 -05:00 [INF] 55 student marks retrieved successfully.
+2025-02-27 01:50:13.837 -05:00 [INF] Loaded 55 student marks.
+2025-02-27 01:50:13.838 -05:00 [INF] Checking for existing student marks in the database...
+2025-02-27 01:50:16.680 -05:00 [INF] Executed DbCommand (81ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [s].[RollNumber]
+FROM [StudentMarks] AS [s]
+2025-02-27 01:50:16.735 -05:00 [INF] No new student marks to insert.
+2025-02-27 01:53:27.718 -05:00 [INF] Fetching student marks...
+2025-02-27 01:53:27.773 -05:00 [INF] Fetching student marksheet from API...
+2025-02-27 01:53:27.813 -05:00 [INF] Fetching student marksheet from API...
+2025-02-27 01:53:27.834 -05:00 [INF] Start processing HTTP request GET http://localhost:5294/api/StudentMarkSheet/fetch
+2025-02-27 01:53:27.843 -05:00 [INF] Sending HTTP request GET http://localhost:5294/api/StudentMarkSheet/fetch
+2025-02-27 01:53:31.517 -05:00 [INF] Received HTTP response headers after 3664.7583ms - 200
+2025-02-27 01:53:31.537 -05:00 [INF] End processing HTTP request after 3719.7384ms - 200
+2025-02-27 01:53:32.127 -05:00 [INF] No. of StudentsMarkSheet Fetched: 55
+2025-02-27 01:53:32.144 -05:00 [INF] 55 student marks retrieved successfully.
+2025-02-27 01:53:32.377 -05:00 [INF] Loaded 55 student marks.
+2025-02-27 01:53:32.379 -05:00 [INF] Checking for existing student marks in the database...
+2025-02-27 01:53:34.943 -05:00 [INF] Executed DbCommand (63ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [s].[RollNumber]
+FROM [StudentMarks] AS [s]
+2025-02-27 01:53:35.001 -05:00 [INF] No new student marks to insert.
+2025-02-27 01:53:41.900 -05:00 [INF] Loading the Student Marksheet to the Grid..
+2025-02-27 01:55:15.663 -05:00 [INF] Fetching student marks...
+2025-02-27 01:55:15.736 -05:00 [INF] Fetching student marksheet from API...
+2025-02-27 01:55:15.753 -05:00 [INF] Fetching student marksheet from API...
+2025-02-27 01:55:15.773 -05:00 [INF] Start processing HTTP request GET http://localhost:5294/api/StudentMarkSheet/fetch
+2025-02-27 01:55:15.784 -05:00 [INF] Sending HTTP request GET http://localhost:5294/api/StudentMarkSheet/fetch
+2025-02-27 01:55:18.199 -05:00 [INF] Received HTTP response headers after 2389.5061ms - 200
+2025-02-27 01:55:18.235 -05:00 [INF] End processing HTTP request after 2477.2098ms - 200
+2025-02-27 01:55:19.000 -05:00 [INF] No. of StudentsMarkSheet Fetched: 55
+2025-02-27 01:55:19.012 -05:00 [INF] 55 student marks retrieved successfully.
+2025-02-27 01:55:19.031 -05:00 [INF] Loaded 55 student marks.
+2025-02-27 01:55:19.034 -05:00 [INF] Checking for existing student marks in the database...
+2025-02-27 01:55:21.383 -05:00 [INF] Executed DbCommand (60ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [s].[RollNumber]
+FROM [StudentMarks] AS [s]
+2025-02-27 01:55:21.427 -05:00 [INF] No new student marks to insert.
+2025-02-27 01:55:26.530 -05:00 [INF] Loading the Student Marksheet to the Grid..
+2025-02-27 01:56:19.127 -05:00 [INF] Fetching student marks...
+2025-02-27 01:56:19.185 -05:00 [INF] Fetching student marksheet from API...
+2025-02-27 01:56:19.202 -05:00 [INF] Fetching student marksheet from API...
+2025-02-27 01:56:19.222 -05:00 [INF] Start processing HTTP request GET http://localhost:5294/api/StudentMarkSheet/fetch
+2025-02-27 01:56:19.232 -05:00 [INF] Sending HTTP request GET http://localhost:5294/api/StudentMarkSheet/fetch
+2025-02-27 01:56:22.009 -05:00 [INF] Received HTTP response headers after 2769.5402ms - 200
+2025-02-27 01:56:22.043 -05:00 [INF] End processing HTTP request after 2837.2409ms - 200
+2025-02-27 01:56:22.617 -05:00 [INF] No. of StudentsMarkSheet Fetched: 55
+2025-02-27 01:56:22.630 -05:00 [INF] 55 student marks retrieved successfully.
+2025-02-27 01:56:22.650 -05:00 [INF] Loaded 55 student marks.
+2025-02-27 01:56:22.652 -05:00 [INF] Checking for existing student marks in the database...
+2025-02-27 01:56:25.683 -05:00 [INF] Executed DbCommand (91ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [s].[RollNumber]
+FROM [StudentMarks] AS [s]
+2025-02-27 01:56:25.751 -05:00 [INF] No new student marks to insert.
+2025-02-27 01:58:19.577 -05:00 [INF] Fetching student marks...
+2025-02-27 01:58:19.659 -05:00 [INF] Fetching student marksheet from API...
+2025-02-27 01:58:19.698 -05:00 [INF] Fetching student marksheet from API...
+2025-02-27 01:58:19.721 -05:00 [INF] Start processing HTTP request GET http://localhost:5294/api/StudentMarkSheet/fetch
+2025-02-27 01:58:19.729 -05:00 [INF] Sending HTTP request GET http://localhost:5294/api/StudentMarkSheet/fetch
+2025-02-27 01:58:22.661 -05:00 [INF] Received HTTP response headers after 2923.3972ms - 200
+2025-02-27 01:58:22.672 -05:00 [INF] End processing HTTP request after 2970.289ms - 200
+2025-02-27 01:58:22.971 -05:00 [INF] No. of StudentsMarkSheet Fetched: 55
+2025-02-27 01:58:22.972 -05:00 [INF] 55 student marks retrieved successfully.
+2025-02-27 01:58:23.024 -05:00 [INF] Loaded 55 student marks.
+2025-02-27 01:58:23.028 -05:00 [INF] Checking for existing student marks in the database...
+2025-02-27 01:58:26.561 -05:00 [INF] Executed DbCommand (279ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [s].[RollNumber]
+FROM [StudentMarks] AS [s]
+2025-02-27 01:58:26.617 -05:00 [INF] No new student marks to insert.
+2025-02-27 01:58:52.145 -05:00 [INF] Loading the Student Marksheet to the Grid..
+2025-02-27 02:00:30.743 -05:00 [INF] Fetching student marks...
+2025-02-27 02:00:30.832 -05:00 [INF] Fetching student marksheet from API...
+2025-02-27 02:00:30.855 -05:00 [INF] Fetching student marksheet from API...
+2025-02-27 02:00:30.881 -05:00 [INF] Start processing HTTP request GET http://localhost:5294/api/StudentMarkSheet/fetch
+2025-02-27 02:00:30.891 -05:00 [INF] Sending HTTP request GET http://localhost:5294/api/StudentMarkSheet/fetch
+2025-02-27 02:00:33.034 -05:00 [INF] Received HTTP response headers after 2130.5674ms - 200
+2025-02-27 02:00:33.071 -05:00 [INF] End processing HTTP request after 2210.6614ms - 200
+2025-02-27 02:00:34.422 -05:00 [INF] No. of StudentsMarkSheet Fetched: 55
+2025-02-27 02:00:34.440 -05:00 [INF] 55 student marks retrieved successfully.
+2025-02-27 02:00:34.464 -05:00 [INF] Loaded 55 student marks.
+2025-02-27 02:00:34.466 -05:00 [INF] Checking for existing student marks in the database...
+2025-02-27 02:00:36.676 -05:00 [INF] Executed DbCommand (56ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [s].[RollNumber]
+FROM [StudentMarks] AS [s]
+2025-02-27 02:00:36.721 -05:00 [INF] No new student marks to insert.
+2025-02-27 02:00:38.366 -05:00 [INF] Loading the Student Marksheet to the Grid..
+2025-02-27 02:06:56.171 -05:00 [INF] Fetching student marks...
+2025-02-27 02:06:56.239 -05:00 [INF] Fetching student marksheet from API...
+2025-02-27 02:06:56.281 -05:00 [INF] Fetching student marksheet from API...
+2025-02-27 02:06:56.313 -05:00 [INF] Start processing HTTP request GET http://localhost:5294/api/StudentMarkSheet/fetch
+2025-02-27 02:06:56.328 -05:00 [INF] Sending HTTP request GET http://localhost:5294/api/StudentMarkSheet/fetch
+2025-02-27 02:06:59.087 -05:00 [INF] Received HTTP response headers after 2750.8366ms - 200
+2025-02-27 02:06:59.099 -05:00 [INF] End processing HTTP request after 2810.264ms - 200
+2025-02-27 02:06:59.758 -05:00 [INF] No. of StudentsMarkSheet Fetched: 55
+2025-02-27 02:06:59.785 -05:00 [INF] 55 student marks retrieved successfully.
+2025-02-27 02:06:59.838 -05:00 [INF] Loaded 55 student marks.
+2025-02-27 02:06:59.839 -05:00 [INF] Checking for existing student marks in the database...
+2025-02-27 02:07:02.993 -05:00 [INF] Executed DbCommand (99ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [s].[RollNumber]
+FROM [StudentMarks] AS [s]
+2025-02-27 02:07:03.054 -05:00 [INF] No new student marks to insert.
+2025-02-27 02:07:03.802 -05:00 [INF] Loading the Student Marksheet to the Grid..
+2025-02-27 23:58:36.515 -05:00 [INF] Fetching student marks...
+2025-02-27 23:58:36.548 -05:00 [INF] Fetching student marksheet from API...
+2025-02-27 23:58:36.566 -05:00 [INF] Fetching student marksheet from API...
+2025-02-27 23:58:36.577 -05:00 [INF] Start processing HTTP request GET http://localhost:5000/api/StudentMarkSheet/fetch
+2025-02-27 23:58:36.581 -05:00 [INF] Sending HTTP request GET http://localhost:5000/api/StudentMarkSheet/fetch
+2025-02-27 23:58:40.860 -05:00 [ERR] HTTP error while fetching StudentMarkSheet
+System.Net.Http.HttpRequestException: No connection could be made because the target machine actively refused it. (localhost:5000)
+ ---> System.Net.Sockets.SocketException (10061): No connection could be made because the target machine actively refused it.
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.ThrowException(SocketError error, CancellationToken cancellationToken)
+   at System.Net.Sockets.Socket.AwaitableSocketAsyncEventArgs.System.Threading.Tasks.Sources.IValueTaskSource.GetResult(Int16 token)
+   at System.Net.Sockets.Socket.<ConnectAsync>g__WaitForConnectWithCancellation|285_0(AwaitableSocketAsyncEventArgs saea, ValueTask connectTask, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   --- End of inner exception stack trace ---
+   at System.Net.Http.HttpConnectionPool.ConnectToTcpHostAsync(String host, Int32 port, HttpRequestMessage initialRequest, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.ConnectAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.CreateHttp11ConnectionAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.AddHttp11ConnectionAsync(QueueItem queueItem)
+   at System.Threading.Tasks.TaskCompletionSourceWithCancellation`1.WaitWithCancellationAsync(CancellationToken cancellationToken)
+   at System.Net.Http.HttpConnectionPool.SendWithVersionDetectionAndRetryAsync(HttpRequestMessage request, Boolean async, Boolean doRequestAuth, CancellationToken cancellationToken)
+   at System.Net.Http.RedirectHandler.SendAsync(HttpRequestMessage request, Boolean async, CancellationToken cancellationToken)
+   at Microsoft.Extensions.Http.Logging.LoggingHttpMessageHandler.<SendCoreAsync>g__Core|4_0(HttpRequestMessage request, Boolean useAsync, CancellationToken cancellationToken)
+   at Microsoft.Extensions.Http.Logging.LoggingScopeHttpMessageHandler.<SendCoreAsync>g__Core|4_0(HttpRequestMessage request, Boolean useAsync, CancellationToken cancellationToken)
+   at System.Net.Http.HttpClient.<SendAsync>g__Core|83_0(HttpRequestMessage request, HttpCompletionOption completionOption, CancellationTokenSource cts, Boolean disposeCts, CancellationTokenSource pendingRequestsCts, CancellationToken originalCancellationToken)
+   at StudentMarksheet.ApiService.StudentMarksheetApiService.FetchStudentMarkSheetAsync() in C:\Users\91996\Desktop\MY WPF Projects\StudentMarksheet\ApiService\StudentMarksheetApiService.cs:line 46
+2025-02-27 23:58:40.964 -05:00 [WRN] No student marks found in API response.
+2025-02-27 23:58:40.965 -05:00 [INF] Loaded 0 student marks.
+2025-02-27 23:58:42.386 -05:00 [INF] Loading the Student Marksheet to the Grid..
+2025-02-27 23:58:45.063 -05:00 [INF] Loading the Student Marksheet to the Grid..
+2025-02-27 23:58:46.447 -05:00 [INF] Loading the Student Marksheet to the Grid..

@@ -1,0 +1,4 @@
+@StudentMarksheetUploadApi_HostAddress = http://localhost:5294/api
+
+GET {{StudentMarksheetUploadApi_HostAddress}}/StudentMarkSheet
+Accept: application/json

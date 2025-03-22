@@ -1,0 +1,468 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\91996\\Desktop\\MY WPF Projects\\StudentMarksheet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B718621E-B5AF-4F77-8A20-4D40595A08FB}|StudentMarksheet.csproj|c:\\users\\91996\\desktop\\my wpf projects\\studentmarksheet\\studentmarksheetview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B718621E-B5AF-4F77-8A20-4D40595A08FB}|StudentMarksheet.csproj|solutionrelative:studentmarksheetview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B718621E-B5AF-4F77-8A20-4D40595A08FB}|StudentMarksheet.csproj|c:\\users\\91996\\desktop\\my wpf projects\\studentmarksheet\\dataaccess\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B718621E-B5AF-4F77-8A20-4D40595A08FB}|StudentMarksheet.csproj|solutionrelative:dataaccess\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B718621E-B5AF-4F77-8A20-4D40595A08FB}|StudentMarksheet.csproj|c:\\users\\91996\\desktop\\my wpf projects\\studentmarksheet\\apiservice\\studentmarksheetapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B718621E-B5AF-4F77-8A20-4D40595A08FB}|StudentMarksheet.csproj|solutionrelative:apiservice\\studentmarksheetapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B718621E-B5AF-4F77-8A20-4D40595A08FB}|StudentMarksheet.csproj|c:\\users\\91996\\desktop\\my wpf projects\\studentmarksheet\\dataaccess\\studentmarksheetdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B718621E-B5AF-4F77-8A20-4D40595A08FB}|StudentMarksheet.csproj|solutionrelative:dataaccess\\studentmarksheetdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B718621E-B5AF-4F77-8A20-4D40595A08FB}|StudentMarksheet.csproj|c:\\users\\91996\\desktop\\my wpf projects\\studentmarksheet\\viewmodel\\studentmarksheetviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B718621E-B5AF-4F77-8A20-4D40595A08FB}|StudentMarksheet.csproj|solutionrelative:viewmodel\\studentmarksheetviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B718621E-B5AF-4F77-8A20-4D40595A08FB}|StudentMarksheet.csproj|c:\\users\\91996\\desktop\\my wpf projects\\studentmarksheet\\converters\\csvtolistconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B718621E-B5AF-4F77-8A20-4D40595A08FB}|StudentMarksheet.csproj|solutionrelative:converters\\csvtolistconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B718621E-B5AF-4F77-8A20-4D40595A08FB}|StudentMarksheet.csproj|c:\\users\\91996\\desktop\\my wpf projects\\studentmarksheet\\dataaccess\\istudentmarksheetdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B718621E-B5AF-4F77-8A20-4D40595A08FB}|StudentMarksheet.csproj|solutionrelative:dataaccess\\istudentmarksheetdataaccess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B718621E-B5AF-4F77-8A20-4D40595A08FB}|StudentMarksheet.csproj|c:\\users\\91996\\desktop\\my wpf projects\\studentmarksheet\\view\\numerictextboxbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B718621E-B5AF-4F77-8A20-4D40595A08FB}|StudentMarksheet.csproj|solutionrelative:view\\numerictextboxbehavior.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B718621E-B5AF-4F77-8A20-4D40595A08FB}|StudentMarksheet.csproj|c:\\users\\91996\\desktop\\my wpf projects\\studentmarksheet\\converters\\inverseboolconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B718621E-B5AF-4F77-8A20-4D40595A08FB}|StudentMarksheet.csproj|solutionrelative:converters\\inverseboolconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B718621E-B5AF-4F77-8A20-4D40595A08FB}|StudentMarksheet.csproj|c:\\users\\91996\\desktop\\my wpf projects\\studentmarksheet\\extensions\\observablecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B718621E-B5AF-4F77-8A20-4D40595A08FB}|StudentMarksheet.csproj|solutionrelative:extensions\\observablecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B718621E-B5AF-4F77-8A20-4D40595A08FB}|StudentMarksheet.csproj|c:\\users\\91996\\desktop\\my wpf projects\\studentmarksheet\\extensions\\enumhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B718621E-B5AF-4F77-8A20-4D40595A08FB}|StudentMarksheet.csproj|solutionrelative:extensions\\enumhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B718621E-B5AF-4F77-8A20-4D40595A08FB}|StudentMarksheet.csproj|c:\\users\\91996\\desktop\\my wpf projects\\studentmarksheet\\studentmarksheet.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B718621E-B5AF-4F77-8A20-4D40595A08FB}|StudentMarksheet.csproj|solutionrelative:studentmarksheet.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B718621E-B5AF-4F77-8A20-4D40595A08FB}|StudentMarksheet.csproj|c:\\users\\91996\\desktop\\my wpf projects\\studentmarksheet\\converters\\booltobrushconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B718621E-B5AF-4F77-8A20-4D40595A08FB}|StudentMarksheet.csproj|solutionrelative:converters\\booltobrushconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B718621E-B5AF-4F77-8A20-4D40595A08FB}|StudentMarksheet.csproj|c:\\users\\91996\\desktop\\my wpf projects\\studentmarksheet\\model\\studentmarkmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B718621E-B5AF-4F77-8A20-4D40595A08FB}|StudentMarksheet.csproj|solutionrelative:model\\studentmarkmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B718621E-B5AF-4F77-8A20-4D40595A08FB}|StudentMarksheet.csproj|c:\\users\\91996\\desktop\\my wpf projects\\studentmarksheet\\viewmodelbase\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B718621E-B5AF-4F77-8A20-4D40595A08FB}|StudentMarksheet.csproj|solutionrelative:viewmodelbase\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B718621E-B5AF-4F77-8A20-4D40595A08FB}|StudentMarksheet.csproj|c:\\users\\91996\\desktop\\my wpf projects\\studentmarksheet\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B718621E-B5AF-4F77-8A20-4D40595A08FB}|StudentMarksheet.csproj|solutionrelative:assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B718621E-B5AF-4F77-8A20-4D40595A08FB}|StudentMarksheet.csproj|c:\\users\\91996\\desktop\\my wpf projects\\studentmarksheet\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B718621E-B5AF-4F77-8A20-4D40595A08FB}|StudentMarksheet.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B718621E-B5AF-4F77-8A20-4D40595A08FB}|StudentMarksheet.csproj|c:\\users\\91996\\desktop\\my wpf projects\\studentmarksheet\\viewmodelbase\\notificationbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B718621E-B5AF-4F77-8A20-4D40595A08FB}|StudentMarksheet.csproj|solutionrelative:viewmodelbase\\notificationbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B718621E-B5AF-4F77-8A20-4D40595A08FB}|StudentMarksheet.csproj|c:\\users\\91996\\desktop\\my wpf projects\\studentmarksheet\\services\\windowservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B718621E-B5AF-4F77-8A20-4D40595A08FB}|StudentMarksheet.csproj|solutionrelative:services\\windowservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B718621E-B5AF-4F77-8A20-4D40595A08FB}|StudentMarksheet.csproj|c:\\users\\91996\\desktop\\my wpf projects\\studentmarksheet\\services\\iwindowservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B718621E-B5AF-4F77-8A20-4D40595A08FB}|StudentMarksheet.csproj|solutionrelative:services\\iwindowservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B718621E-B5AF-4F77-8A20-4D40595A08FB}|StudentMarksheet.csproj|c:\\users\\91996\\desktop\\my wpf projects\\studentmarksheet\\model\\studentmarksentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B718621E-B5AF-4F77-8A20-4D40595A08FB}|StudentMarksheet.csproj|solutionrelative:model\\studentmarksentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B718621E-B5AF-4F77-8A20-4D40595A08FB}|StudentMarksheet.csproj|c:\\users\\91996\\desktop\\my wpf projects\\studentmarksheet\\model\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B718621E-B5AF-4F77-8A20-4D40595A08FB}|StudentMarksheet.csproj|solutionrelative:model\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B718621E-B5AF-4F77-8A20-4D40595A08FB}|StudentMarksheet.csproj|c:\\users\\91996\\desktop\\my wpf projects\\studentmarksheet\\dataaccess\\appdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B718621E-B5AF-4F77-8A20-4D40595A08FB}|StudentMarksheet.csproj|solutionrelative:dataaccess\\appdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B718621E-B5AF-4F77-8A20-4D40595A08FB}|StudentMarksheet.csproj|c:\\users\\91996\\desktop\\my wpf projects\\studentmarksheet\\converters\\booltovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B718621E-B5AF-4F77-8A20-4D40595A08FB}|StudentMarksheet.csproj|solutionrelative:converters\\booltovisibilityconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B718621E-B5AF-4F77-8A20-4D40595A08FB}|StudentMarksheet.csproj|c:\\users\\91996\\desktop\\my wpf projects\\studentmarksheet\\stylesheet\\studentmarksheetstyles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B718621E-B5AF-4F77-8A20-4D40595A08FB}|StudentMarksheet.csproj|solutionrelative:stylesheet\\studentmarksheetstyles.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B718621E-B5AF-4F77-8A20-4D40595A08FB}|StudentMarksheet.csproj|c:\\users\\91996\\desktop\\my wpf projects\\studentmarksheet\\apiservice\\istudentmarksheetapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B718621E-B5AF-4F77-8A20-4D40595A08FB}|StudentMarksheet.csproj|solutionrelative:apiservice\\istudentmarksheetapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B718621E-B5AF-4F77-8A20-4D40595A08FB}|StudentMarksheet.csproj|c:\\users\\91996\\desktop\\my wpf projects\\studentmarksheet\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B718621E-B5AF-4F77-8A20-4D40595A08FB}|StudentMarksheet.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B718621E-B5AF-4F77-8A20-4D40595A08FB}|StudentMarksheet.csproj|c:\\users\\91996\\desktop\\my wpf projects\\studentmarksheet\\studentmarksheetview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B718621E-B5AF-4F77-8A20-4D40595A08FB}|StudentMarksheet.csproj|solutionrelative:studentmarksheetview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InverseBoolConverter.cs",
+              "DocumentMoniker": "C:\\Users\\91996\\Desktop\\MY WPF Projects\\StudentMarksheet\\Converters\\InverseBoolConverter.cs",
+              "RelativeDocumentMoniker": "Converters\\InverseBoolConverter.cs",
+              "ToolTip": "C:\\Users\\91996\\Desktop\\MY WPF Projects\\StudentMarksheet\\Converters\\InverseBoolConverter.cs",
+              "RelativeToolTip": "Converters\\InverseBoolConverter.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T02:11:29.372Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentMarkSheetViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\91996\\Desktop\\MY WPF Projects\\StudentMarksheet\\ViewModel\\StudentMarkSheetViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModel\\StudentMarkSheetViewModel.cs",
+              "ToolTip": "C:\\Users\\91996\\Desktop\\MY WPF Projects\\StudentMarksheet\\ViewModel\\StudentMarkSheetViewModel.cs",
+              "RelativeToolTip": "ViewModel\\StudentMarkSheetViewModel.cs",
+              "ViewState": "AgIAAFsBAAAAAAAAAAAUwGkBAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T01:55:07.91Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentMarksheetView.xaml",
+              "DocumentMoniker": "C:\\Users\\91996\\Desktop\\MY WPF Projects\\StudentMarksheet\\StudentMarksheetView.xaml",
+              "RelativeDocumentMoniker": "StudentMarksheetView.xaml",
+              "ToolTip": "C:\\Users\\91996\\Desktop\\MY WPF Projects\\StudentMarksheet\\StudentMarksheetView.xaml",
+              "RelativeToolTip": "StudentMarksheetView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-26T07:07:40.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDBContext.cs",
+              "DocumentMoniker": "C:\\Users\\91996\\Desktop\\MY WPF Projects\\StudentMarksheet\\DataAccess\\AppDBContext.cs",
+              "RelativeDocumentMoniker": "DataAccess\\AppDBContext.cs",
+              "ToolTip": "C:\\Users\\91996\\Desktop\\MY WPF Projects\\StudentMarksheet\\DataAccess\\AppDBContext.cs",
+              "RelativeToolTip": "DataAccess\\AppDBContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T05:51:39.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentMarksheetApiService.cs",
+              "DocumentMoniker": "C:\\Users\\91996\\Desktop\\MY WPF Projects\\StudentMarksheet\\ApiService\\StudentMarksheetApiService.cs",
+              "RelativeDocumentMoniker": "ApiService\\StudentMarksheetApiService.cs",
+              "ToolTip": "C:\\Users\\91996\\Desktop\\MY WPF Projects\\StudentMarksheet\\ApiService\\StudentMarksheetApiService.cs",
+              "RelativeToolTip": "ApiService\\StudentMarksheetApiService.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAUwGoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T00:34:53.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentMarkSheetDataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\91996\\Desktop\\MY WPF Projects\\StudentMarksheet\\DataAccess\\StudentMarkSheetDataAccess.cs",
+              "RelativeDocumentMoniker": "DataAccess\\StudentMarkSheetDataAccess.cs",
+              "ToolTip": "C:\\Users\\91996\\Desktop\\MY WPF Projects\\StudentMarksheet\\DataAccess\\StudentMarkSheetDataAccess.cs",
+              "RelativeToolTip": "DataAccess\\StudentMarkSheetDataAccess.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAUwG8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T02:03:33.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CsvToListConverter.cs",
+              "DocumentMoniker": "C:\\Users\\91996\\Desktop\\MY WPF Projects\\StudentMarksheet\\Converters\\CsvToListConverter.cs",
+              "RelativeDocumentMoniker": "Converters\\CsvToListConverter.cs",
+              "ToolTip": "C:\\Users\\91996\\Desktop\\MY WPF Projects\\StudentMarksheet\\Converters\\CsvToListConverter.cs",
+              "RelativeToolTip": "Converters\\CsvToListConverter.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAUwC8AAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T07:28:51.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IStudentMarkSheetDataAccess.cs",
+              "DocumentMoniker": "C:\\Users\\91996\\Desktop\\MY WPF Projects\\StudentMarksheet\\DataAccess\\IStudentMarkSheetDataAccess.cs",
+              "RelativeDocumentMoniker": "DataAccess\\IStudentMarkSheetDataAccess.cs",
+              "ToolTip": "C:\\Users\\91996\\Desktop\\MY WPF Projects\\StudentMarksheet\\DataAccess\\IStudentMarkSheetDataAccess.cs",
+              "RelativeToolTip": "DataAccess\\IStudentMarkSheetDataAccess.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T04:52:54.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "NumericTextBoxBehavior.cs",
+              "DocumentMoniker": "C:\\Users\\91996\\Desktop\\MY WPF Projects\\StudentMarksheet\\View\\NumericTextBoxBehavior.cs",
+              "RelativeDocumentMoniker": "View\\NumericTextBoxBehavior.cs",
+              "ToolTip": "C:\\Users\\91996\\Desktop\\MY WPF Projects\\StudentMarksheet\\View\\NumericTextBoxBehavior.cs",
+              "RelativeToolTip": "View\\NumericTextBoxBehavior.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T04:47:49.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ObservableCollectionExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\91996\\Desktop\\MY WPF Projects\\StudentMarksheet\\Extensions\\ObservableCollectionExtensions.cs",
+              "RelativeDocumentMoniker": "Extensions\\ObservableCollectionExtensions.cs",
+              "ToolTip": "C:\\Users\\91996\\Desktop\\MY WPF Projects\\StudentMarksheet\\Extensions\\ObservableCollectionExtensions.cs",
+              "RelativeToolTip": "Extensions\\ObservableCollectionExtensions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T04:46:21.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EnumHelper.cs",
+              "DocumentMoniker": "C:\\Users\\91996\\Desktop\\MY WPF Projects\\StudentMarksheet\\Extensions\\EnumHelper.cs",
+              "RelativeDocumentMoniker": "Extensions\\EnumHelper.cs",
+              "ToolTip": "C:\\Users\\91996\\Desktop\\MY WPF Projects\\StudentMarksheet\\Extensions\\EnumHelper.cs",
+              "RelativeToolTip": "Extensions\\EnumHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T04:44:21.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StudentMarksheet.csproj",
+              "DocumentMoniker": "C:\\Users\\91996\\Desktop\\MY WPF Projects\\StudentMarksheet\\StudentMarksheet.csproj",
+              "RelativeDocumentMoniker": "StudentMarksheet.csproj",
+              "ToolTip": "C:\\Users\\91996\\Desktop\\MY WPF Projects\\StudentMarksheet\\StudentMarksheet.csproj",
+              "RelativeToolTip": "StudentMarksheet.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-28T04:43:19.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "C:\\Users\\91996\\Desktop\\MY WPF Projects\\StudentMarksheet\\ViewModelBase\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "ViewModelBase\\RelayCommand.cs",
+              "ToolTip": "C:\\Users\\91996\\Desktop\\MY WPF Projects\\StudentMarksheet\\ViewModelBase\\RelayCommand.cs",
+              "RelativeToolTip": "ViewModelBase\\RelayCommand.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAkwEcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T01:55:41.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BooltoBrushConverter.cs",
+              "DocumentMoniker": "C:\\Users\\91996\\Desktop\\MY WPF Projects\\StudentMarksheet\\Converters\\BooltoBrushConverter.cs",
+              "RelativeDocumentMoniker": "Converters\\BooltoBrushConverter.cs",
+              "ToolTip": "C:\\Users\\91996\\Desktop\\MY WPF Projects\\StudentMarksheet\\Converters\\BooltoBrushConverter.cs",
+              "RelativeToolTip": "Converters\\BooltoBrushConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T03:56:38.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StudentMarkModel.cs",
+              "DocumentMoniker": "C:\\Users\\91996\\Desktop\\MY WPF Projects\\StudentMarksheet\\Model\\StudentMarkModel.cs",
+              "RelativeDocumentMoniker": "Model\\StudentMarkModel.cs",
+              "ToolTip": "C:\\Users\\91996\\Desktop\\MY WPF Projects\\StudentMarksheet\\Model\\StudentMarkModel.cs",
+              "RelativeToolTip": "Model\\StudentMarkModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T03:12:08.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\91996\\Desktop\\MY WPF Projects\\StudentMarksheet\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\91996\\Desktop\\MY WPF Projects\\StudentMarksheet\\AssemblyInfo.cs",
+              "RelativeToolTip": "AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T23:57:28.055Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\91996\\Desktop\\MY WPF Projects\\StudentMarksheet\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "C:\\Users\\91996\\Desktop\\MY WPF Projects\\StudentMarksheet\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T01:48:48.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "NotificationBase.cs",
+              "DocumentMoniker": "C:\\Users\\91996\\Desktop\\MY WPF Projects\\StudentMarksheet\\ViewModelBase\\NotificationBase.cs",
+              "RelativeDocumentMoniker": "ViewModelBase\\NotificationBase.cs",
+              "ToolTip": "C:\\Users\\91996\\Desktop\\MY WPF Projects\\StudentMarksheet\\ViewModelBase\\NotificationBase.cs",
+              "RelativeToolTip": "ViewModelBase\\NotificationBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T01:56:47.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "WindowService.cs",
+              "DocumentMoniker": "C:\\Users\\91996\\Desktop\\MY WPF Projects\\StudentMarksheet\\Services\\WindowService.cs",
+              "RelativeDocumentMoniker": "Services\\WindowService.cs",
+              "ToolTip": "C:\\Users\\91996\\Desktop\\MY WPF Projects\\StudentMarksheet\\Services\\WindowService.cs",
+              "RelativeToolTip": "Services\\WindowService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T02:09:10.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IWindowService.cs",
+              "DocumentMoniker": "C:\\Users\\91996\\Desktop\\MY WPF Projects\\StudentMarksheet\\Services\\IWindowService.cs",
+              "RelativeDocumentMoniker": "Services\\IWindowService.cs",
+              "ToolTip": "C:\\Users\\91996\\Desktop\\MY WPF Projects\\StudentMarksheet\\Services\\IWindowService.cs",
+              "RelativeToolTip": "Services\\IWindowService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T02:09:20.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "StudentMarksEntity.cs",
+              "DocumentMoniker": "C:\\Users\\91996\\Desktop\\MY WPF Projects\\StudentMarksheet\\Model\\StudentMarksEntity.cs",
+              "RelativeDocumentMoniker": "Model\\StudentMarksEntity.cs",
+              "ToolTip": "C:\\Users\\91996\\Desktop\\MY WPF Projects\\StudentMarksheet\\Model\\StudentMarksEntity.cs",
+              "RelativeToolTip": "Model\\StudentMarksEntity.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T02:05:34.482Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AppSettings.cs",
+              "DocumentMoniker": "C:\\Users\\91996\\Desktop\\MY WPF Projects\\StudentMarksheet\\Model\\AppSettings.cs",
+              "RelativeDocumentMoniker": "Model\\AppSettings.cs",
+              "ToolTip": "C:\\Users\\91996\\Desktop\\MY WPF Projects\\StudentMarksheet\\Model\\AppSettings.cs",
+              "RelativeToolTip": "Model\\AppSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T23:33:09.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "AppDBContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\91996\\Desktop\\MY WPF Projects\\StudentMarksheet\\DataAccess\\AppDBContextFactory.cs",
+              "RelativeDocumentMoniker": "DataAccess\\AppDBContextFactory.cs",
+              "ToolTip": "C:\\Users\\91996\\Desktop\\MY WPF Projects\\StudentMarksheet\\DataAccess\\AppDBContextFactory.cs",
+              "RelativeToolTip": "DataAccess\\AppDBContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T06:29:14.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "BoolToVisibilityConverter.cs",
+              "DocumentMoniker": "C:\\Users\\91996\\Desktop\\MY WPF Projects\\StudentMarksheet\\Converters\\BoolToVisibilityConverter.cs",
+              "RelativeDocumentMoniker": "Converters\\BoolToVisibilityConverter.cs",
+              "ToolTip": "C:\\Users\\91996\\Desktop\\MY WPF Projects\\StudentMarksheet\\Converters\\BoolToVisibilityConverter.cs",
+              "RelativeToolTip": "Converters\\BoolToVisibilityConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T02:10:35.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "StudentMarkSheetStyles.xaml",
+              "DocumentMoniker": "C:\\Users\\91996\\Desktop\\MY WPF Projects\\StudentMarksheet\\StyleSheet\\StudentMarkSheetStyles.xaml",
+              "RelativeDocumentMoniker": "StyleSheet\\StudentMarkSheetStyles.xaml",
+              "ToolTip": "C:\\Users\\91996\\Desktop\\MY WPF Projects\\StudentMarksheet\\StyleSheet\\StudentMarkSheetStyles.xaml",
+              "RelativeToolTip": "StyleSheet\\StudentMarkSheetStyles.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-26T03:58:59.693Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IStudentMarksheetApiService.cs",
+              "DocumentMoniker": "C:\\Users\\91996\\Desktop\\MY WPF Projects\\StudentMarksheet\\ApiService\\IStudentMarksheetApiService.cs",
+              "RelativeDocumentMoniker": "ApiService\\IStudentMarksheetApiService.cs",
+              "ToolTip": "C:\\Users\\91996\\Desktop\\MY WPF Projects\\StudentMarksheet\\ApiService\\IStudentMarksheetApiService.cs",
+              "RelativeToolTip": "ApiService\\IStudentMarksheetApiService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T02:06:32.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\91996\\Desktop\\MY WPF Projects\\StudentMarksheet\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\91996\\Desktop\\MY WPF Projects\\StudentMarksheet\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-02-19T01:57:14.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "StudentMarksheetView.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\91996\\Desktop\\MY WPF Projects\\StudentMarksheet\\StudentMarksheetView.xaml.cs",
+              "RelativeDocumentMoniker": "StudentMarksheetView.xaml.cs",
+              "ToolTip": "C:\\Users\\91996\\Desktop\\MY WPF Projects\\StudentMarksheet\\StudentMarksheetView.xaml.cs",
+              "RelativeToolTip": "StudentMarksheetView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T00:22:38.816Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

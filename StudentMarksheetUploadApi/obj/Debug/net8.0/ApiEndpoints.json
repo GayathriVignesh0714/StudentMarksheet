@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "StudentMarkSheetController",
+    "Method": "FetchStudentMarkSheet",
+    "RelativePath": "api/StudentMarkSheet/fetch",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "StudentMarkSheetController",
+    "Method": "UploadStudentMarkSheet",
+    "RelativePath": "api/StudentMarkSheet/upload",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "studentMarkSheet",
+        "Type": "StudentMarksheetUploadApi.Model.StudentMarkSheet",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
